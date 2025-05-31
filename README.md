@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Ravali Yerrapothu
 
-🚀 **Machine Learning Engineer | Deep Learning Researcher | Cloud AI Specialist**
+🚀 **Machine Learning Engineer | Deep Learning Researcher**
 
 Welcome to my GitHub! I'm passionate about crafting intelligent systems that bridge the gap between theoretical concepts and real-world applications. My journey encompasses developing solutions in computer vision, secure communications, system simulations, and data visualization.
 
@@ -14,8 +14,6 @@ Welcome to my GitHub! I'm passionate about crafting intelligent systems that bri
 - **Full ML Lifecycle**: Data processing → Model training → Evaluation → Deployment
 - **Big Data & Visualization**: Apache Spark, ElasticSearch, Tableau
 - **Software Engineering**: Python, Java, C++, REST/gRPC APIs, Spring, Docker
-
----
 
 ---
 
