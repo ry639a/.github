@@ -21,14 +21,17 @@ Welcome to my GitHub! I'm passionate about crafting intelligent systems that bri
 
 ## 📌 Featured Projects
 
-###🔹 [Custom Deep Learning Framework](#): 
-Implemented backprop, optimization, CNN, and RNN layers mimicking PyTorch internals  
+### 🔹 [Custom Deep Learning Framework](#): 
+Implemented Forward, Backward pass with backprop, & optimization for MLP, CNN, and RNN mimicking PyTorch libraries. 
 
-###🔹 [LLM Summarizer (Clinical)](#): 
-AWS Bedrock + LangChain-powered pipeline for prior-authorization document summarization  
+### 🔹 [LLM Powered Clinical Summarization](#): 
+Developed a large language model (LLM) pipeline using AWS Bedrock, HuggingFace, LangChain, and Cohere to automate prior-authorization document summarization for healthcare payers.
 
-###🔹 [Streaming Twitter Spam Classifier](#): 
-Online learning with Naive Bayes and Adaptive Trees  
+### 🔹 [Streaming Twitter Spam Classifier](#): 
+Developed an online spam classifier using Naive Bayes and MOA Hoefding adaptive tree learners; tested with imbalanced data and cross-validation for robustness.
+
+### 🔹 [CNN for MNIST](#): 
+Trained a CNN with 99.2% accuracy on the MNIST dataset using deep convolutional layers and hyperparameter tuning.
 
 ### 🔹 [Vehicle Detection and Motion Tracking](https://github.com/ry639a/Vehicle-detection-and-Motion-tracking)
 Implemented motion detection using Background Subtraction (MOG) in C++. This project focuses on detecting and tracking moving vehicles in video sequences, leveraging OpenCV for real-time processing.
