@@ -1,13 +1,13 @@
 # 👋 Hi there! I'm Ravali Yerrapothu
 
-🚀 **Machine Learning Engineer | Deep Learning Researcher**
+🚀 **Machine Learning | Deep Learning | Gen AI**
 
-Welcome to my GitHub! I'm passionate about crafting intelligent systems that bridge the gap between theoretical concepts and real-world applications. My journey encompasses developing solutions in computer vision, secure communications, system simulations, and data visualization.
+Welcome to my GitHub! I'm passionate about crafting intelligent systems that bridge the gap between theoretical concepts and real-world applications. My journey encompasses developing solutions in computer vision, traditional ml and deep learning & llm based applications.
 
 ---
 
 ## 🔬 Areas of Expertise
-- **Machine Learning & Deep Learning**: CNN, RNN, LSTM, GANs, Transformers
+- **Machine Learning & Deep Learning**: ANN, CNN, RNN, LSTM, GANs, Transformers
 - **LLMs & GenAI**: LangChain, HuggingFace, Cohere, Prompt Engineering, Vector DBs (Weaviate, Pinecone)
 - **Model Optimization**: Quantization, LoRA, Pruning, Prefix Caching
 - **Cloud Platforms**: AWS (SageMaker, Bedrock, Lambda), GCP
