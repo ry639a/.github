@@ -64,7 +64,3 @@ Engineered a C++ solution to automatically solve jigsaw puzzles by analyzing pie
 - **Email**: yravali592@gmail.com
 
 Feel free to explore my repositories and reach out for collaborations or discussions on exciting projects!
-
----
-
-_“Strive not to be a success, but rather to be of value.” — Albert Einstein_
