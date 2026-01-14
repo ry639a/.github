@@ -16,8 +16,13 @@ Welcome to my GitHub! Here is a brief overview about my interests and motivation
 - **Software Engineering**: Python, Java, C++, REST/gRPC APIs, Spring, Docker
 
 ---
+### Highlights
+1. Runner in Agentic AI Google Cloud Hackathon conducted by ODSC and Google in December 2025.
+2. Deep Learning Specialization from CMU with 95.7%, December 2024.
 
 ### Featured Projects
+#### Transformer Encoder: 
+Designed and implemented custom Transformer Encoder Classifier to classify IMDB text reviews.
 #### [Custom Deep Learning Framework](#): 
 Implemented Forward, Backward pass with backprop, & optimization for MLP, CNN, and RNN mimicking PyTorch libraries. 
 #### [LLM Powered Clinical Summarization](#): 
